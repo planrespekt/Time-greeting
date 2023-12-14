@@ -14,3 +14,4 @@ function checkTime() {
 
     // Vis responsen i konsollen
     console.log(greeting);
+}
