@@ -14,9 +14,3 @@ function checkTime() {
 
     // Vis responsen i konsollen
     console.log(greeting);
-
-    // Vis responsen på nettsiden
-    const resultContainer = document.createElement('div');
-    resultContainer.innerHTML = `<p>${greeting}</p>`;
-    document.body.appendChild(resultContainer);
-}
